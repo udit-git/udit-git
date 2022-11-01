@@ -2,11 +2,20 @@
 
 -- INSERT VISITOR BADGE --
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
-- 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 [<img src="https://edgeprim.com/assets/images/EdgePrim.svg" height="30em" align="center" alt="EdgePrim" title="EdgePrim"/>](https://edgeprim.com) 𝚊𝚗𝚍 [<img src="https://youthhax.com/images/yh.png" height="30em" align="center" alt="YouthHax" title="YouthHax"/>](https://youthhax.com)
-- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙷𝚘𝚗𝚘𝚞𝚛𝚜 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚠𝚒𝚝𝚑 𝙲𝚘-𝚘𝚙 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 𝚆𝚊𝚝𝚎𝚛𝚕𝚘𝚘, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸𝟻
-- 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋 𝚘𝚛 𝚘𝚗 𝚝𝚑𝚎 [𝙰𝚄𝚁](https://aur.archlinux.org/packages/?SeB=M&K=Raymo111)
-- 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
+- 🖥 Develop anything and everything
+- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Computer Applications at Manipal University Jaipur
+- 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋 - <a href="https://github.com/udit-git">  :door: </a>
+- I love using: </br>
+:muscle: (List of Operating Systems & Tech Stacks)   </br>
+	- Kali [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" height="50em" align="center" style="border-radius: 50%;" alt="Logo" title="Logo"/>](https://kali.org/)
+	- Parrot OS [<img src="https://jessehirsh.com/content/images/size/w960/2020/08/Parrot_Logo.png" height="35em" align="center" style="border-radius: 50%;" alt="Logo" title="Logo"/>](https://www.parrotsec.org/)
+	- Windows 10 [<img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/windows-512.png"  height="35em" align="center" style="border-radius: 50%;" alt="Logo" title="Kali Linux Logo"/>](https://www.microsoft.com/en-in/windows)
+	- JavaScript [<img src="https://ih1.redbubble.net/image.815350031.4911/st,small,507x507-pad,600x600,f8f8f8.u1.jpg" height="35em" align="center" style="border-radius: 50%;" alt="Arch Linux Logo" title="Logo"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+	- Js Frameworks [<img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/node-512.png" height="35em" align="center" style="border-radius: 50%;" alt="Logo" title="Logo"/>](https://nodejs.org/)
+	- DBMS [<img src="https://cdn-icons-png.flaticon.com/512/603/603201.png?w=360"  height="35em" align="center" style="border-radius: 50%;" alt="Logo" title="Logo"/>](https://www.w3schools.com/sql/)
+	- C [<img src="https://5.imimg.com/data5/WA/FQ/GLADMIN-15711089/c-programming-250x250.png"  height="35em" align="center" style="border-radius: 50%;" alt="Logo" title="Logo"/>](https://www.w3schools.com/c/c_intro.php)
+	
+	
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
