@@ -33,7 +33,6 @@ Contributing to Open Source Projects, and Looking to Gain Experience
 	- Get a FAANGM+ Internship :ramen:
 	- Be proficient in more than 10 tech stacks :shaved_ice:
 	- Be a full fledged Security Engineer/SysAdmin in ADDITION to being a developer :coffee:
-	- Live in Japan &/or Korea :kimono: :rice_ball:
 	- Join the Special Forces :v:
 	- Be Lara Craft/Nathan Drake :fist:
 <!--
