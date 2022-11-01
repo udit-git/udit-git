@@ -5,16 +5,16 @@ This is a ✨ _special_ ✨ repository because this is my opportunity to communi
 Here is me in some bullet points:
 
 - 🔭 I’m currently working on 
-    :steam_locomotive: An Amazon Clone using JS based Frameworks
-    :steam_locomotive: Gaining more experience
-    :steam_locomotive: My upcoming exams :grimacing: :confused: 
-    :steam_locomotive: My learning skills
+    :steam_locomotive: An Amazon Clone using JS based Frameworks </br>
+    :steam_locomotive: Gaining more experience </br>
+    :steam_locomotive: My upcoming exams :grimacing: :confused: </br>
+    :steam_locomotive: My learning skills </br>
     
 - 🌱 I’m currently learning: 
-    :bowtie: Web Development 
-    :bowtie: Bettering my Command Line Proficiency  
-    :bowtie: Python 
-    :bowtie: Web Crawlers
+    :bowtie: Web Development </br>
+    :bowtie: Bettering my Command Line Proficiency  </br>
+    :bowtie: Python  </br>
+    :bowtie: Web Crawlers </br>
     
 - 💬 Ask me about whatever you like; I'll do my best to help you out :relaxed: 
 - 👯 I’m looking to collaborate on any project whose mission excites me :innocent: :musical_note:
