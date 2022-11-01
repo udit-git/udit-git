@@ -109,3 +109,6 @@ Here is me in some bullet points:
     :100: https://www.youtube.com/watch?v=WAaIkw2fYCI </br>
     :100: https://www.youtube.com/watch?v=RBtlPT23PTM </br>
 --?
+
+Inspired from: https://github.com/Raymo111/Raymo111/edit/master/README.md
+And https://github.com/innng/innng
