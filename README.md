@@ -4,7 +4,7 @@ This is a ✨ _special_ ✨ repository because this is my opportunity to communi
 
 Here is me in some bullet points:
 
-- 🔭 I’m currently working on </br>
+- 🔭 I’m currently working on: </br>
     :steam_locomotive: An Amazon Clone using JS based Frameworks </br>
     :steam_locomotive: Gaining more experience </br>
     :steam_locomotive: My upcoming exams :grimacing: :confused: </br>
@@ -22,7 +22,7 @@ Here is me in some bullet points:
 
 - 📫 How to reach me: :no_mouth:
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Really good music to code along to : 
+- ⚡ Really good music to code along to :  </br>
  --> Light Hearted: </br>
     :bangbang: https://www.youtube.com/watch?v=CRHPclhtlN0 </br>
     :bangbang: https://www.youtube.com/watch?v=_8o2wK8QcF8 </br>
