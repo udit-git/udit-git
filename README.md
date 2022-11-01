@@ -4,13 +4,13 @@ This is a ✨ _special_ ✨ repository because this is my opportunity to communi
 
 Here is me in some bullet points:
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on </br>
     :steam_locomotive: An Amazon Clone using JS based Frameworks </br>
     :steam_locomotive: Gaining more experience </br>
     :steam_locomotive: My upcoming exams :grimacing: :confused: </br>
     :steam_locomotive: My learning skills </br>
     
-- 🌱 I’m currently learning: 
+- 🌱 I’m currently learning:  </br>
     :bowtie: Web Development </br>
     :bowtie: Bettering my Command Line Proficiency  </br>
     :bowtie: Python  </br>
@@ -23,15 +23,15 @@ Here is me in some bullet points:
 - 📫 How to reach me: :no_mouth:
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Really good music to code along to : 
- --> Light Hearted:
-    :bangbang: https://www.youtube.com/watch?v=CRHPclhtlN0
-    :bangbang: https://www.youtube.com/watch?v=_8o2wK8QcF8
-    :bangbang: https://www.youtube.com/watch?v=rJFYm_55wDU
-    :bangbang: https://www.youtube.com/watch?v=44nbmhbhGbw
-    :bangbang: https://www.youtube.com/watch?v=44nbmhbhGbw
- --> Serious/Solemn:
-    :100: https://www.youtube.com/watch?v=_8o2wK8QcF8
-    :100: https://www.youtube.com/watch?v=Xcft8GQxPv8
-    :100: https://www.youtube.com/watch?v=JQx5EVQRKnM
-    :100: https://www.youtube.com/watch?v=WAaIkw2fYCI
-    :100: https://www.youtube.com/watch?v=RBtlPT23PTM
+ --> Light Hearted: </br>
+    :bangbang: https://www.youtube.com/watch?v=CRHPclhtlN0 </br>
+    :bangbang: https://www.youtube.com/watch?v=_8o2wK8QcF8 </br>
+    :bangbang: https://www.youtube.com/watch?v=rJFYm_55wDU </br>
+    :bangbang: https://www.youtube.com/watch?v=44nbmhbhGbw </br>
+    :bangbang: https://www.youtube.com/watch?v=44nbmhbhGbw </br>
+ --> Serious/Solemn: </br>
+    :100: https://www.youtube.com/watch?v=_8o2wK8QcF8 </br>
+    :100: https://www.youtube.com/watch?v=Xcft8GQxPv8 </br>
+    :100: https://www.youtube.com/watch?v=JQx5EVQRKnM </br>
+    :100: https://www.youtube.com/watch?v=WAaIkw2fYCI </br>
+    :100: https://www.youtube.com/watch?v=RBtlPT23PTM </br>
