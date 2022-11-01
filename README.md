@@ -35,7 +35,3 @@ Here is me in some bullet points:
     :100: https://www.youtube.com/watch?v=JQx5EVQRKnM </br>
     :100: https://www.youtube.com/watch?v=WAaIkw2fYCI </br>
     :100: https://www.youtube.com/watch?v=RBtlPT23PTM </br>
-    
-![linkedin](https://user-images.githubusercontent.com/74935107/199169882-779f6e95-c19b-4725-89e9-c5a056c9aa77.svg)
-![credly](https://user-images.githubusercontent.com/74935107/199169896-a4af42f3-45e9-459c-a6aa-21a7c385e9d4.svg)
-![github](https://user-images.githubusercontent.com/74935107/199170020-a0915294-37ba-4f07-bac1-1a3ce6b2c3cb.svg)
