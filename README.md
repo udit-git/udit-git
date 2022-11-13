@@ -58,15 +58,16 @@ END_SECTION:activity
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 ![Metrics](https://metrics.lecoq.io/Raymo111?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
--->
+
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝: </br> </br>
+𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝: </br> </br> 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/2048px-Circle-icons-mail.svg.png" height="45em" align="center" alt="LinkedIn" title="LinkedIn"/>](mailto:)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png" height="45em" align="center" alt="LinkedIn" title="LinkedIn"/>](https://www.linkedin.com/in/udit-p-rai-a0754423a)
 [<img src="https://images.credly.com/images/b685de69-03cf-402c-b8e3-62ecd0e2e949/blob.png" height="45em" align="center" alt="Credly" title="Credly"/>](https://credly.com/users/udit-p-rai)
 [<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="45em" align="center" alt="Github" title="Github"/>](https://github.com/udit-git)
 
+-->
 ## ⚡ 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚌𝚘𝚘𝚕 𝚝𝚑𝚒𝚗𝚐𝚜 𝚝𝚑𝚊𝚝 𝚠𝚎𝚗𝚝 𝚒𝚗𝚝𝚘 𝚝𝚑𝚒𝚜 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚁𝙴𝙰𝙳𝙼𝙴
 This readme file was inspired and directly took elements from these ✨ _amazing_ ✨ repositories: </br>
 :dizzy: https://github.com/Prince-Shivaram/Prince-Shivaram </br>
