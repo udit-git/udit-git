@@ -3,7 +3,7 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Full-Stack, Cross-Platform Developer
 - 🎓 Studying Computer Applications at Manipal University Jaipur
-- 🌐 You can see all my open source stuff here on GitHub (Click on the Door) - <a href="https://github.com/udit-git">  :door: </a>
+- 🌐 Slowly populating and populating all my projects here on GitHub (Click on the Door) - <a href="https://github.com/udit-git">  :door: </a>
 - Established Wizard with: </br>
 :muscle: (List of Operating Systems & Tech Stacks)   </br>
 	- MERN [<img src="https://cutecdn.codingdojo.com/svg_images/curriculum/mern_icon.svg" height="50em" align="center" style="border-radius: 50%;" alt="Logo" title="Logo"/>](https://www.mongodb.com/mern-stack)
