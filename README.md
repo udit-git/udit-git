@@ -28,6 +28,11 @@ And this is how:
     	🌱 Exploit Development </br>
     	🌱 Developing Cyber Security tools </br>
 
+## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
+𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝: </br> </br> 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/2048px-Circle-icons-mail.svg.png" height="45em" align="center" alt="E-mail" title="e-mail"/>](mailto:)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png" height="45em" align="center" alt="LinkedIn" title="LinkedIn"/>](https://www.linkedin.com/)
+
 <!--
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
