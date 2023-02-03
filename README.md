@@ -16,23 +16,25 @@
 	
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
+𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```yaml
-Practicing to beat the ultimate boss level of a developers' life: Assured high-level performance at any language ```
-<!-- - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚍𝚘𝚒𝚗𝚐 𝚊𝚗 𝚒𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙 𝚊𝚝 𝚂𝚘𝚗𝚢 𝙿𝚕𝚊𝚢𝚜𝚝𝚊𝚝𝚒𝚘𝚗! -->
-<!-- - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚊 𝚗𝚎𝚠 [**𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛**](https://github.com/Raymo111/i3lock-color) 𝚛𝚎𝚕𝚎𝚊𝚜𝚎 -->
-- 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
-	- Complete 50 projects :relieved: :heart_eyes:
-	- Sync my Github properly (So much backlog currently) :sweat_smile: :confused:
-	- Ace my exams :grinning:
-	- Learn the :guitar:
-	- Become proficient at 3 tech stacks for cross platform development :yum:
-- 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
-	- Get a FAANGM+ Internship :ramen:
-	- Be proficient in more than 10 tech stacks :shaved_ice:
-	- Be a full fledged Security Engineer/SysAdmin in ADDITION to being a developer :coffee:
-	- Join the Special Forces :v:
-	- Be Lara Craft/Nathan Drake :fist:
+Practicing to achieve the ultimate goal of any developers' life: Assured high-level performance at any language.
+And this is how:
+```
+- 🔨 C𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 practicing developing cross-platform cross-techstack clones of famous multi-function applications (eg. Amazon, Azure etc) 
+- 🔨 Plan to 𝚠𝚘𝚛𝚔 𝚘𝚗 developing own Linux and Windows like distributions (based on available open stack software only)
+- 🔨 I’m currently growing in my skills in:  </br>
+   	🌱 Software Architecture </br>
+    	🌱 Exploit Development </br>
+    	🌱 Developing Cyber Security tools </br>
+
+
+## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
+𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝: </br> </br> 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/2048px-Circle-icons-mail.svg.png" height="45em" align="center" alt="E-mail" title="e-mail"/>](mailto:)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png" height="45em" align="center" alt="LinkedIn" title="LinkedIn"/>](https://www.linkedin.com/in/udit-p-rai-a0754423a)
+[<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="45em" align="center" alt="Github" title="Github"/>](https://github.com/udit-git)
+
 <!--
 - 🤔 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚒𝚜𝚜𝚞𝚎𝚜 𝙸 𝚗𝚎𝚎𝚍 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑:
 	- [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛/𝚒𝚜𝚜𝚞𝚎𝚜/𝟷𝟹𝟼](https://github.com/Raymo111/i3lock-color/issues/136)
@@ -58,19 +60,13 @@ END_SECTION:activity
 ![Metrics](https://metrics.lecoq.io/Raymo111?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
 
-## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝: </br> </br> 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/2048px-Circle-icons-mail.svg.png" height="45em" align="center" alt="LinkedIn" title="LinkedIn"/>](mailto:)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png" height="45em" align="center" alt="LinkedIn" title="LinkedIn"/>](https://www.linkedin.com/in/udit-p-rai-a0754423a)
-[<img src="https://images.credly.com/images/b685de69-03cf-402c-b8e3-62ecd0e2e949/blob.png" height="45em" align="center" alt="Credly" title="Credly"/>](https://credly.com/users/udit-p-rai)
-[<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="45em" align="center" alt="Github" title="Github"/>](https://github.com/udit-git)
 
--->
 ## ⚡ 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚌𝚘𝚘𝚕 𝚝𝚑𝚒𝚗𝚐𝚜 𝚝𝚑𝚊𝚝 𝚠𝚎𝚗𝚝 𝚒𝚗𝚝𝚘 𝚝𝚑𝚒𝚜 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚁𝙴𝙰𝙳𝙼𝙴
 This readme file was inspired and directly took elements from these ✨ _amazing_ ✨ repositories: </br>
 :dizzy: https://github.com/Prince-Shivaram/Prince-Shivaram </br>
 :dizzy: https://github.com/Raymo111/Raymo111 </br>
 :dizzy: https://github.com/innng/innng </br>
+-->
 <!--
 - 𝚃𝚢𝚙𝚎𝙸𝚝, 𝚅𝚞𝚎 𝙿𝚊𝚛𝚝𝚒𝚌𝚕𝚎𝙹𝚜 𝚊𝚗𝚍 𝚅𝚞𝚎.𝚓𝚜 𝚏𝚘𝚛 𝚝𝚑𝚎 𝚝𝚢𝚙𝚒𝚗𝚐 𝚒𝚗𝚝𝚛𝚘: [𝚑𝚝𝚝𝚙𝚜://𝚌𝚘𝚍𝚎𝚜𝚊𝚗𝚍𝚋𝚘𝚡.𝚒𝚘/𝚜/𝚛𝚎𝚊𝚍𝚖𝚎-𝚒𝚗𝚝𝚛𝚘𝚐𝚒𝚏-𝟿𝚏𝚓𝚘𝟻](https://codesandbox.io/s/readme-introgif-9fjo5) Thanks to @matyo91's helpful comments in their profile README!
 - 𝙼𝚘𝚗𝚘𝚜𝚙𝚊𝚌𝚎𝚍 𝚝𝚎𝚡𝚝 𝚏𝚛𝚘𝚖 [𝚑𝚝𝚝𝚙𝚜://𝚢𝚊𝚢𝚝𝚎𝚡𝚝.𝚌𝚘𝚖/𝚖𝚘𝚗𝚘𝚜𝚙𝚊𝚌𝚎/](https://yaytext.com/monospace/)
@@ -100,11 +96,7 @@ Here is me in some bullet points:
     :steam_locomotive: My upcoming exams :grimacing: :confused: </br>
     :steam_locomotive: My learning skills </br>
     
-- 🌱 I’m currently learning:  </br>
-    :bowtie: Web Development </br>
-    :bowtie: Bettering my Command Line Proficiency  </br>
-    :bowtie: Python  </br>
-    :bowtie: Web Crawlers </br>
+
     
 - 💬 Ask me about whatever you like; I'll do my best to help you out :relaxed: 
 - 👯 I’m looking to collaborate on any project whose mission excites me :innocent: :musical_note:
