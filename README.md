@@ -6,7 +6,7 @@
 - 🌐 Slowly populating and populating all my projects here on GitHub (Click on the Door) - <a href="https://github.com/udit-git">  :door: </a>
 - Established Wizard with: </br>
 :muscle: (List of Operating Systems & Tech Stacks)   </br>
-	- MERN [<img src="https://cutecdn.codingdojo.com/svg_images/curriculum/mern_icon.svg" height="50em" align="center" style="border-radius: 50%;" alt="Logo" title="Logo"/>](https://www.mongodb.com/mern-stack)
+	- MERN [<img src="https://cutecdn.codingdojo.com/svg_images/curriculum/mern_icon.svg" height="35em" align="center" style="border-radius: 50%;" alt="Logo" title="Logo"/>](https://www.mongodb.com/mern-stack)
 	- Python/Django Full Stack [<img src="https://cdn-icons-png.flaticon.com/512/919/919852.png" height="35em" align="center" style="border-radius: 50%;" alt="Logo" title="Logo"/>](https://www.fullstackpython.com/)
 	- C/C++/C# [<img src="https://5.imimg.com/data5/WA/FQ/GLADMIN-15711089/c-programming-250x250.png"  height="35em" align="center" style="border-radius: 50%;" alt="Logo" title="Logo"/>](https://www.w3schools.com/c/c_intro.php)
 	- JavaScript and all associated frameworks [<img src="https://static.vecteezy.com/system/resources/thumbnails/015/814/154/small/javascript-file-icon-design-free-vector.jpg"  height="35em" align="center" style="border-radius: 50%;" alt="Logo" title="JavaScript Logo"/>](https://www.javascript.com/)
