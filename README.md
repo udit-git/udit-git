@@ -1,12 +1,12 @@
 <img src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" align="center" alt="Happily Coding" title="Happily Coding"/>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 Develops anything and everything
+- 🖥 Full-Stack, Cross-Platform Developer
 - 🎓 Studying Computer Applications at Manipal University Jaipur
 - 🌐 You can see all my open source stuff here on GitHub (Click on the Door) - <a href="https://github.com/udit-git">  :door: </a>
 - I love using: </br>
 :muscle: (List of Operating Systems & Tech Stacks)   </br>
-	- Kali [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" height="50em" align="center" style="border-radius: 50%;" alt="Logo" title="Logo"/>](https://kali.org/)
+	- MERN [<img src="https://cutecdn.codingdojo.com/svg_images/curriculum/mern_icon.svg" height="50em" align="center" style="border-radius: 50%;" alt="Logo" title="Logo"/>](https://www.mongodb.com/mern-stack)
 	- Parrot OS [<img src="https://jessehirsh.com/content/images/size/w960/2020/08/Parrot_Logo.png" height="35em" align="center" style="border-radius: 50%;" alt="Logo" title="Logo"/>](https://www.parrotsec.org/)
 	- Windows 10 [<img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/windows-512.png"  height="35em" align="center" style="border-radius: 50%;" alt="Logo" title="Kali Linux Logo"/>](https://www.microsoft.com/en-in/windows)
 	- Web Development [<img src="https://ih1.redbubble.net/image.815350031.4911/st,small,507x507-pad,600x600,f8f8f8.u1.jpg" height="35em" align="center" style="border-radius: 50%;" alt="Arch Linux Logo" title="Logo"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
