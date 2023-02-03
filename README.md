@@ -8,12 +8,11 @@
 :muscle: (List of Operating Systems & Tech Stacks)   </br>
 	- MERN [<img src="https://cutecdn.codingdojo.com/svg_images/curriculum/mern_icon.svg" height="50em" align="center" style="border-radius: 50%;" alt="Logo" title="Logo"/>](https://www.mongodb.com/mern-stack)
 	- Python/Django Full Stack [<img src="https://cdn-icons-png.flaticon.com/512/919/919852.png" height="35em" align="center" style="border-radius: 50%;" alt="Logo" title="Logo"/>](https://www.fullstackpython.com/)
-	- Windows 10 [<img src="https://static.vecteezy.com/system/resources/thumbnails/015/814/154/small/javascript-file-icon-design-free-vector.jpg"  height="35em" align="center" style="border-radius: 50%;" alt="Logo" title="JavaScript Logo"/>](https://www.javascript.com/)
-	- Web Development [<img src="https://ih1.redbubble.net/image.815350031.4911/st,small,507x507-pad,600x600,f8f8f8.u1.jpg" height="35em" align="center" style="border-radius: 50%;" alt="Arch Linux Logo" title="Logo"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-	- Js Frameworks [<img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/node-512.png" height="35em" align="center" style="border-radius: 50%;" alt="Logo" title="Logo"/>](https://nodejs.org/)
-	- DBMS [<img src="https://cdn-icons-png.flaticon.com/512/603/603201.png?w=360"  height="35em" align="center" style="border-radius: 50%;" alt="Logo" title="Logo"/>](https://www.w3schools.com/sql/)
-	- C [<img src="https://5.imimg.com/data5/WA/FQ/GLADMIN-15711089/c-programming-250x250.png"  height="35em" align="center" style="border-radius: 50%;" alt="Logo" title="Logo"/>](https://www.w3schools.com/c/c_intro.php)
-	
+	- C/C++/C# [<img src="https://5.imimg.com/data5/WA/FQ/GLADMIN-15711089/c-programming-250x250.png"  height="35em" align="center" style="border-radius: 50%;" alt="Logo" title="Logo"/>](https://www.w3schools.com/c/c_intro.php)
+	- JavaScript and all associated frameworks [<img src="https://static.vecteezy.com/system/resources/thumbnails/015/814/154/small/javascript-file-icon-design-free-vector.jpg"  height="35em" align="center" style="border-radius: 50%;" alt="Logo" title="JavaScript Logo"/>](https://www.javascript.com/)
+	- Cloud Development and Architeccture [<img src="https://www.freeiconspng.com/thumbs/cloud-icon/cloud-icon-17.png" height="35em" align="center" style="border-radius: 50%;" alt="Arch Linux Logo" title="Logo"/>](https://www.ibm.com/topics/cloud-computing)
+	- DevOps [<img src="https://cdn-icons-png.flaticon.com/512/5266/5266541.png" height="35em" align="center" style="border-radius: 50%;" alt="Logo" title="Logo"/>](https://about.gitlab.com/topics/devops/#:~:text=DevOps%20is%20a%20combination%20of,of%20collaboration%20and%20shared%20responsibility.)
+	- Cross-Role Security [<img src="https://t4.ftcdn.net/jpg/03/28/81/31/360_F_328813182_A8bkkTnWO78m4JTV1MtykmOZbS7KB5PC.jpg"  height="35em" align="center" style="border-radius: 50%;" alt="Logo" title="Logo"/>](https://usa.kaspersky.com/resource-center/definitions/what-is-cyber-security)
 	
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
