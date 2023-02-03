@@ -4,7 +4,7 @@
 - 🖥 Full-Stack, Cross-Platform Developer
 - 🎓 Studying Computer Applications at Manipal University Jaipur
 - 🌐 You can see all my open source stuff here on GitHub (Click on the Door) - <a href="https://github.com/udit-git">  :door: </a>
-- I love using: </br>
+- Established Wizard with: </br>
 :muscle: (List of Operating Systems & Tech Stacks)   </br>
 	- MERN [<img src="https://cutecdn.codingdojo.com/svg_images/curriculum/mern_icon.svg" height="50em" align="center" style="border-radius: 50%;" alt="Logo" title="Logo"/>](https://www.mongodb.com/mern-stack)
 	- Python/Django Full Stack [<img src="https://cdn-icons-png.flaticon.com/512/919/919852.png" height="35em" align="center" style="border-radius: 50%;" alt="Logo" title="Logo"/>](https://www.fullstackpython.com/)
@@ -18,8 +18,7 @@
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```yaml
-Contributing to Open Source Projects, and Looking to Gain Experience 
-```
+Practicing to beat the ultimate boss level of a developers' life: Assured high-level performance at any language ```
 <!-- - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚍𝚘𝚒𝚗𝚐 𝚊𝚗 𝚒𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙 𝚊𝚝 𝚂𝚘𝚗𝚢 𝙿𝚕𝚊𝚢𝚜𝚝𝚊𝚝𝚒𝚘𝚗! -->
 <!-- - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚊 𝚗𝚎𝚠 [**𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛**](https://github.com/Raymo111/i3lock-color) 𝚛𝚎𝚕𝚎𝚊𝚜𝚎 -->
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
