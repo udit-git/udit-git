@@ -7,8 +7,8 @@
 - I love using: </br>
 :muscle: (List of Operating Systems & Tech Stacks)   </br>
 	- MERN [<img src="https://cutecdn.codingdojo.com/svg_images/curriculum/mern_icon.svg" height="50em" align="center" style="border-radius: 50%;" alt="Logo" title="Logo"/>](https://www.mongodb.com/mern-stack)
-	- Parrot OS [<img src="https://jessehirsh.com/content/images/size/w960/2020/08/Parrot_Logo.png" height="35em" align="center" style="border-radius: 50%;" alt="Logo" title="Logo"/>](https://www.parrotsec.org/)
-	- Windows 10 [<img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/windows-512.png"  height="35em" align="center" style="border-radius: 50%;" alt="Logo" title="Kali Linux Logo"/>](https://www.microsoft.com/en-in/windows)
+	- Python/Django Full Stack [<img src="https://cdn-icons-png.flaticon.com/512/919/919852.png" height="35em" align="center" style="border-radius: 50%;" alt="Logo" title="Logo"/>](https://www.fullstackpython.com/)
+	- Windows 10 [<img src="https://static.vecteezy.com/system/resources/thumbnails/015/814/154/small/javascript-file-icon-design-free-vector.jpg"  height="35em" align="center" style="border-radius: 50%;" alt="Logo" title="JavaScript Logo"/>](https://www.javascript.com/)
 	- Web Development [<img src="https://ih1.redbubble.net/image.815350031.4911/st,small,507x507-pad,600x600,f8f8f8.u1.jpg" height="35em" align="center" style="border-radius: 50%;" alt="Arch Linux Logo" title="Logo"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 	- Js Frameworks [<img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/node-512.png" height="35em" align="center" style="border-radius: 50%;" alt="Logo" title="Logo"/>](https://nodejs.org/)
 	- DBMS [<img src="https://cdn-icons-png.flaticon.com/512/603/603201.png?w=360"  height="35em" align="center" style="border-radius: 50%;" alt="Logo" title="Logo"/>](https://www.w3schools.com/sql/)
